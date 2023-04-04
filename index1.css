@@ -1,0 +1,145 @@
+.navi{
+    width:69%;
+    background-color: rgba(0, 0, 0, 0.7);
+    z-index: 5000;
+    position: fixed;
+    margin-left:-1%;
+    padding-top:2%;
+    padding-bottom:2%;
+    margin-right:0%;
+    margin-top :-1%;
+    padding-left: 33%;
+}
+
+a{
+    color :aliceblue;
+    padding:3%;
+    text-decoration:none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+    .logo{
+        position: absolute;
+        margin-left: -68%;
+        margin-top: -2%;
+    }
+    .foot{
+        z-index: 5000;
+        padding-top: 0%;
+        padding-bottom:0% ;
+        background-color:rgba(0, 0, 0, 0.7) ;
+        width:69%;
+        margin-top :46%;
+        position: fixed;
+        color:aliceblue;
+        padding-left: 3%;
+        margin-left:-1%;
+        width:100%;
+        padding-top: 2%;
+        padding-bottom:2% ;
+    }   
+    h1{
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color:white;
+    }
+    .phone{
+        margin-top :-1.3%;
+        margin-left: 25%;
+    }
+    .follow{
+        margin-top :-2.7%;
+        margin-left: 48%;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+    .n4{
+        margin-top :-3.5%;
+        margin-left: 46%;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+    .blog1{
+        color: aliceblue;
+    }
+
+    .s{
+        font-size: 20px;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        margin-left: 10%;
+        margin-right:10% ;  
+        
+    }
+    .n2{
+        margin-left: -10%}
+    .posts{
+        margin-left:5%;
+        margin-bottom: 30%;
+    }
+    .html2{
+        height: 200px;
+        padding:1.5% 1.5% 6.5% 1.5%;
+        background-color:aquamarine;
+        position: absolute;
+        margin-left:5% ;
+        margin-top: 2%;
+        margin-bottom: 30%;
+        border-radius: 28px; 
+    }
+    .n7{
+        font-size:18px ;
+        color: black;
+        position: absolute;
+        margin-top: 15%;
+        margin-left:3%;
+        padding-right: 4%;
+        font-weight: bolder;
+        background-color: gold;
+        border-radius: 8px;
+    }
+    .html2:hover{
+        box-shadow: 8px 8px 8px rgba(254, 253, 253, 0.3);
+    }
+    .n7:hover{
+        box-shadow: 8px 8px 8px rgba(254, 253, 253, 0.3);
+    }
+    .html1{
+        position: absolute;
+         padding:2% 2% 8% 2%;
+         background-color:aquamarine;
+         margin-left:10% ;
+         margin-top: 3%;
+         margin-bottom: 30%;
+         border-radius: 28px; 
+     
+     }
+     .html1:hover{
+         box-shadow: 8px 8px 8px rgba(243, 243, 15, 0.3);}
+
+         .n6{
+            background-color: gold;
+            border-radius: 8px;
+            position: absolute;
+            margin-top: 18%;
+            margin-left:9%;
+            margin-right:65%;
+            color: black;
+            margin-bottom:5%;
+            font-weight: bold;
+        }
+        .n6:hover{
+            box-shadow: 8px 8px 8px rgba(254, 253, 253, 0.3);
+        }
+        .head{
+            background-color: Gold;
+            padding: 2% 2% 2% 2%;
+            color: black;
+            width: 96.6%;
+        }
+        .head1{
+            background-color: Gold;
+            padding: 2% 2% 2% 2%;
+            color: black;
+            width: 96.6%;
+            
+        }
+        .java{
+            margin-right:5%;
+            margin-left: 5%;
+        }
