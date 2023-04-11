@@ -345,7 +345,23 @@ form{
     animation: typing 2s steps(10) forwards;
   }
   
-  @keyframes typing {
-    from { width: 0; }
-    to { width: 100%; }
-  }
+  @media(max-width:1200px){
+ 
+    html{
+        font-size: 55%;
+	} 
+
+    #home{
+        position:fixed;
+    }
+
+}
+
+
+@media(max-width:1200px){
+ 
+    h1{
+       font-size:smaller;
+	} 
+
+}
